@@ -50,3 +50,5 @@ pooling.
 - Would the users like to have a menu in the app for each store?
 - Or do they just want to put in their list and don't care about what store it is
     bought from?
+- Do the users want store employees to prepare the order and deliver it with a helper?
+- Or is it okay with the users if the helpers themselves pick each item and then deliver?
