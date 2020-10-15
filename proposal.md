@@ -1,4 +1,4 @@
-# Proposal
+# Proposal - UX Design in Mobile Apps
 
 | Name            | Student No. | Email Address                      |
 |-----------------|-------------|------------------------------------|
