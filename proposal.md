@@ -27,7 +27,7 @@ The conditions created by pandemic.
 It has been made very clear by the pandemic that
 many elderly people often don't have the help they need.
 So, most of them have to go to get the groceries themselves
-and also, many people go to do groceries in by cars. They just
+and many people go to do groceries by cars. They just
 buy groceries for themselves and most of the space in the car
 is not used which can be used to get extra stuff for
 elderly people living near them. This will not only be
